@@ -45,6 +45,7 @@ https://templatemo.com/tm-585-barber-shop
 }
 
 body {
+  margin: 0%;
   background-color: var(--white-color);
   font-family: var(--body-font-family); 
 }
