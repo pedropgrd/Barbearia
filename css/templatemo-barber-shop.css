@@ -45,7 +45,6 @@ https://templatemo.com/tm-585-barber-shop
 }
 
 body {
-  margin: 0%;
   background-color: var(--white-color);
   font-family: var(--body-font-family); 
 }
@@ -505,7 +504,7 @@ strong {
 }
 
 .services-thumb-price {
-  background: var(--custom-btn-bg-color);
+  background: var(--custom-btn-bg-hover-color);
   border-radius: var(--border-radius-medium);
   font-size: var(--copyright-font-size);
   margin-left: auto;
